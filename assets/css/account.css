@@ -1,0 +1,31 @@
+.account{
+	width: 100%;
+	text-align: center;
+	padding-top: 80px;
+}
+
+.ac_name{
+	font-weight: bolder;
+	font-size: 160%;
+	margin: 20px;
+}
+
+.p-head{
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.tags{
+	margin-bottom: 20px;
+}
+
+.p-tag{
+	background: #66d7d7;
+	border-radius: 10px;
+	font-size: 20px;
+	font-weight: bold;
+	color: white;
+	padding: 10px;
+	margin-top: 20px;
+	margin-right: 10px;
+}
